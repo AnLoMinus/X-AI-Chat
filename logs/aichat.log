@@ -1,0 +1,27 @@
+2024-10-25 16:38:54,694 - AIChat - INFO - Initializing AI Chat application for user: anonymous
+2024-10-25 16:38:54,694 - AIChat - WARNING - preset_instructions.json not found. Using default empty dict.
+2024-10-25 16:39:48,734 - AIChat - INFO - Initializing AI Chat application for user: anonymous
+2024-10-25 16:39:48,734 - AIChat - WARNING - preset_instructions.json not found. Creating an empty file.
+2024-10-25 16:39:48,735 - AIChat - WARNING - Plugins directory not found. Creating an empty one.
+2024-10-25 16:39:48,736 - AIChat - DEBUG - Setting up UI
+2024-10-25 16:39:48,838 - AIChat - INFO - Creating new chat
+2024-10-25 16:39:48,842 - AIChat - INFO - New chat created: New Chat 1 💬
+2024-10-25 16:39:48,843 - AIChat - DEBUG - UI setup completed
+2024-10-25 16:39:49,130 - AIChat - INFO - Current model updated to: codellama:7b
+2024-10-25 16:39:49,131 - AIChat - INFO - Current model updated to: codellama:7b
+2024-10-25 16:39:49,131 - AIChat - INFO - Application initialized successfully
+2024-10-25 16:39:54,008 - AIChat - INFO - Sending user message: הי...
+2024-10-25 16:39:54,013 - AIChat - DEBUG - Starting Ollama thread with model: codellama:7b
+2024-10-25 16:39:54,014 - AIChat - DEBUG - Starting Ollama request with model: codellama:7b
+2024-10-25 16:40:09,033 - AIChat - DEBUG - Ollama request completed successfully
+2024-10-25 16:40:09,034 - AIChat - INFO - AI response received: anonymous: ואת זה מספר יותר מאלף משואה למדעים והבט...
+2024-10-25 16:40:09,038 - AIChat - DEBUG - Ollama request finished
+2024-10-25 16:40:33,556 - AIChat - INFO - Application closing
+2024-10-26 22:02:12,693 - AIChat - INFO - Initializing AI Chat application for user: anonymous
+2024-10-26 22:02:12,695 - AIChat - DEBUG - Setting up UI
+2024-10-26 22:02:12,911 - AIChat - INFO - Creating new chat
+2024-10-26 22:02:12,918 - AIChat - INFO - New chat created: שיחה חדשה 1 💬
+2024-10-26 22:02:12,918 - AIChat - DEBUG - UI setup completed
+2024-10-26 22:02:13,387 - AIChat - INFO - Current model updated to: 
+2024-10-26 22:02:13,444 - AIChat - INFO - Current model updated to: codellama:7b
+2024-10-26 22:02:13,446 - AIChat - INFO - Application initialized successfully
